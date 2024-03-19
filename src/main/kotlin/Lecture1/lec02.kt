@@ -85,7 +85,7 @@ fun main2(){
 //플랫폼 타입
 //Kotiln에서 자바 코드를 가져다 사용하면 ?
 fun main3(){
-    val person = Person("공부하는 개발자")
+    val person = Person("공부하는 개발자", 50)
     startsWithA(person.name)
         //Person 클래스의 nullable로 인해 빨간줄 생김 (person.name)
         //nullable이 없거나, Notnull이 없다면, Exception 발생

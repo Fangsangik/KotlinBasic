@@ -50,5 +50,5 @@ fun main(){
 
 
     //객체 인스턴스화
-    var person = Person("황상익") //new를 붙이지 않는다.
+    var person = Person("황상익", 100) //new를 붙이지 않는다.
 }
