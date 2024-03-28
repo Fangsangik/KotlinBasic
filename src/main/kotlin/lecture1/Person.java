@@ -1,7 +1,6 @@
-package Lecture1;
+package lecture1;
 
 import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
 
 public class Person {
     private final String name;

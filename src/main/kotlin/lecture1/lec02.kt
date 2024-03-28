@@ -1,4 +1,4 @@
-package Lecture1
+package lecture1
 
 import java.lang.IllegalArgumentException
 

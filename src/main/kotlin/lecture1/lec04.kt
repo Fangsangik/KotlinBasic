@@ -1,4 +1,4 @@
-package Lecture1
+package lecture1
 
 //코틀린에서 연산자를 다루는 방법
 

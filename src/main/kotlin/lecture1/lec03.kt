@@ -1,4 +1,4 @@
-package Lecture1
+package lecture1
 
 //기본 타입
 //코틀린은 선언된 기본값을 보고 타입을 추론

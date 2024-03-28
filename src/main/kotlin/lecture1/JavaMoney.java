@@ -1,8 +1,7 @@
-package Lecture1;
+package lecture1;
 
 import org.jetbrains.annotations.NotNull;
 
-import java.util.Comparator;
 import java.util.Objects;
 
 public class JavaMoney implements Comparable<JavaMoney> {

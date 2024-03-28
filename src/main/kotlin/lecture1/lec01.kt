@@ -1,4 +1,4 @@
-package Lecture1
+package lecture1
 
 fun main(){
     var number1 = 10L //값을 변경 할 수 있고
